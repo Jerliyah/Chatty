@@ -1,0 +1,25 @@
+body {
+    background-image: url("images/congruent_pentagon.png");
+    padding: 2rem;
+    box-sizing: border-box;
+    margin: 0;
+    height: 100vh;
+}
+
+img, video {
+    display: block;
+    margin: 0 auto;
+
+    height: 25%;
+}
+
+div#messaging-box {
+    height: 75%;
+    background-image: url("images/footer_lodyas.png");
+
+    padding: 1rem;
+    color: white;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
